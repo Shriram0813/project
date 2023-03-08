@@ -1,0 +1,62 @@
+th,td,tr{
+    padding: 13px;
+    font-weight: bold;
+}
+th{
+    font-weight: bolder;
+    /* margin: 1px solid blac; */
+    border: 1px solid black;
+}
+tr{
+    border: 1px solid black;
+
+}
+
+.tables{
+    margin-left: 700px;
+    border: 1px solid black;
+margin-top: 40px ;
+}
+.form{
+    padding: 10px;
+    border-radius: 10px;
+}
+.del{
+    margin-left: 1000px;
+    margin-top: 100px;
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+    /* width: 100px; */
+}
+.inp{
+    margin-bottom: 10px;
+    
+}
+.div{
+    background-color: antiquewhite;
+    text-decoration: none;
+    padding: 10px;
+    width: 20%;
+    
+}
+.but{
+    padding: 10px;
+    width: 7%;
+    border-radius: 16px;
+    text-decoration: none;
+    /* background-color: rgb(220, 232, 232); */
+    border: none;
+}
+.link{
+    text-decoration: none;
+    color: aliceblue;
+}
+.nav{
+    padding: 10px;
+}
+.tot{
+    padding: 10px;
+    margin-left: 250px;
+}
